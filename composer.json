@@ -1,6 +1,6 @@
 
 {
-    "name": "resnext/clickhouse",
+    "name": "resnext/yii2-clickhouse",
     "description": "ClickHouse for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","ClickHouse","ClickHouse ActiveRecord Yii2"],
